@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb-dev.kola88.online
+CATALOGUE_HOST: catalogue-dev.kola88.online
+REDIS_HOST: redis-dev.kola88.online
+USER_HOST: user-dev.kola88.online
+CART_HOST: cart-dev.kola88.online
+MYSQL_HOST: mysql-dev.kola88.online
+SHIPPING_HOST: shipping-dev.kola88.online
+RABBITMQ_HOST: rabbitmq-dev.kola88.online
+PAYMENT_HOST: payment-dev.kola88.online
