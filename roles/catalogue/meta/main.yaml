@@ -1,0 +1,3 @@
+  - name: installing npm dependencies
+    community.general.npm:
+      path: /app
