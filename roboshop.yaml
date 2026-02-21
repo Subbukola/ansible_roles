@@ -1,6 +1,6 @@
 ---
-- name: configuring "{{ component }}" server
-  hosts: local
+- name: "configuring {{ component }} server"
+  hosts: "{{ component  }}"
   become: yes
   
   roles:
